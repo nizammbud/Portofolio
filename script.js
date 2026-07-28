@@ -41,7 +41,7 @@ window.onload = function(){
 
         document.getElementById("content").classList.add("show");
 
-        ketik(); // cuma SATU KALI di sini
+        ketik();
 
     },2070);
 
