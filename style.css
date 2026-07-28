@@ -217,7 +217,7 @@ hr {
     display:inline-block;
     width:108px;
 }
-.Contact:hover{
+.Contact-social-card:hover{
 box-shadow:0 0 40px #000;
 }
 footer{
@@ -237,7 +237,7 @@ blockquote{
     gap:10px;
     text-align: center;
 }
-.Contact social-card:hover img{
+.Contact-social-card:hover img{
     transform:scale(1.1);
 }
 .foto{
