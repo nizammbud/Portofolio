@@ -1,23 +1,23 @@
     @font-face{
     font-family:"Poppins";
-    src:url("fonts/Poppins-Regular.otf");
+    src:url("Poppins-Regular.otf");
 }
 
 @font-face{
     font-family:"Poppins Bold";
-    src:url("fonts/Poppins-Bold.otf");
+    src:url("Poppins-Bold.otf");
 }
 @font-face{
     font-family:"Matrix";
-    src:url("fonts/MatrixTypeDisplay-Regular.ttf");
+    src:url("MatrixTypeDisplay-Regular.ttf");
 }
 @font-face{
     font-family:"coc";
-    src:url("fonts/ANunito.ttf");
+    src:url("ANunito.ttf");
 }
 @font-face{
     font-family:"Frd";
-    src:url("fonts/Fredoka-Regular.ttf");
+    src:url("Fredoka-Regular.ttf");
 }
 @keyframes fade{
 
